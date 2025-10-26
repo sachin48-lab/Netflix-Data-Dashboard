@@ -1,8 +1,7 @@
 # 📊 Netflix Dashboard - Power BI Project
 
 ![Netflix Dashboard](/NetflixDashboardImage.png)
-> *(Replace the above path with your actual image path in the repository, e.g. `/assets/dashboard.png`)*
-
+> 
 ## 📁 Project Overview
 This project focuses on analyzing **Netflix’s Movies and TV Shows dataset** using **Power BI** and **Power Query**.  
 The main goal is to uncover insights about content distribution, release trends, genres, ratings, and countries.  
