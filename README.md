@@ -1,6 +1,6 @@
 # 📊 Netflix Dashboard - Power BI Project
 
-![Netflix Dashboard](/Netflix Dashboard Image.png)
+![Netflix Dashboard](/NetflixDashboardImage.png)
 > *(Replace the above path with your actual image path in the repository, e.g. `/assets/dashboard.png`)*
 
 ## 📁 Project Overview
