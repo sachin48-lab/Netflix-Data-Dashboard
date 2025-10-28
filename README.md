@@ -38,16 +38,16 @@ Through this project, I learned to:
 
 ## 📈 Dashboard Features
 The Power BI dashboard includes:
-- 📅 **Year-wise content trend** visualization  
-- 🎬 **Movies vs TV Shows** comparison  
-- 🌍 **Country distribution map**  
-- ⭐ **Ratings and Genre insights**  
-- 🔍 **Interactive slicers** for dynamic filtering  
-- 📊 **Visual KPIs** highlighting total titles and top categories  
+-  **Year-wise content trend** visualization  
+-  **Movies vs TV Shows** comparison  
+-  **Country distribution map**  
+-  **Ratings and Genre insights**  
+-  **Interactive slicers** for dynamic filtering  
+-  **Visual KPIs** highlighting total titles and top categories  
 
 ---
 
-## 📂 Files in This Repository
+## Files in This Repository
 | File | Description |
 |------|--------------|
 | `Netflix_Dashboard.pbix` | Power BI project file |
@@ -57,7 +57,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 How to View the Dashboard
+## How to View the Dashboard
 1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop**.  
 3. Explore the dashboard using the interactive filters and visuals.  
