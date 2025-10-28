@@ -2,14 +2,14 @@
 
 ![Netflix Dashboard](/NetflixDashboardImage.png)
 > 
-## 📁 Project Overview
+## Project Overview
 This project focuses on analyzing **Netflix’s Movies and TV Shows dataset** using **Power BI** and **Power Query**.  
 The main goal is to uncover insights about content distribution, release trends, genres, ratings, and countries.  
 An interactive dashboard was designed to visualize how Netflix’s content has evolved over the years and varies across categories.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze the **distribution** of movies and TV shows on Netflix.  
 - Understand **content trends** by **year of release** and **type**.  
 - Visualize **top genres** and **ratings** distribution.  
@@ -18,7 +18,7 @@ An interactive dashboard was designed to visualize how Netflix’s content has e
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 Through this project, I learned to:
 - Clean and transform data using **Power Query**.  
 - Use **DAX** for data modeling and calculated measures.  
@@ -28,7 +28,7 @@ Through this project, I learned to:
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**  
 - **Power Query**  
 - **Microsoft Excel** (for initial data review)  
@@ -36,7 +36,7 @@ Through this project, I learned to:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 The Power BI dashboard includes:
 -  **Year-wise content trend** visualization  
 -  **Movies vs TV Shows** comparison  
@@ -56,14 +56,6 @@ The Power BI dashboard includes:
 | `netflix_dashboard.png` | Dashboard screenshot |
 
 ---
-
-## How to View the Dashboard
-1. Download the `.pbix` file from this repository.  
-2. Open it in **Power BI Desktop**.  
-3. Explore the dashboard using the interactive filters and visuals.  
-
----
-
 **Author:** [Sachin.R]  
 **LinkedIn:** [www.linkedin.com/in/sachin-r-339438286]  
 
