@@ -64,12 +64,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 🏁 Conclusion
-This project demonstrates how data visualization can turn large datasets into clear, actionable insights.  
-It highlights Netflix’s evolving content strategy across genres, ratings, and regions — showcasing the power of **Power BI** in storytelling through data.
-
----
-
 **Author:** [Sachin.R]  
 **LinkedIn:** [www.linkedin.com/in/sachin-r-339438286]  
 
